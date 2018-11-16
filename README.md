@@ -3,7 +3,8 @@ Kaggle- AirBus Ship detect (Unet)
 
 This is Kaggle Airbus Ship detection Chanllenge  
 
-![image] (https://github.com/super13579/Kaggle-Airbus-ship-detect/blob/master/ship_detect.JPG)  
+![image](https://github.com/super13579/Kaggle-Airbus-ship-detect/blob/master/ship_detect.JPG)   
+
 Share my experience of this competitions (But I don't get a good grade...)
 
 Step 1 ==> Ship exist detection by Transfer learning of ResNet50  
